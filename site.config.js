@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Tom',
-  domain: 'TTomm',
-  author: 'TTTommm',
+  name: 'TomIsFat',
+  domain: 'TomIsFat',
+  author: 'TomIsFat',
 
   // open graph metadata (optional)
   description: null,
@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: null,
-  github: 'TomIsFat',
+  github: null,
   linkedin: null,
 
   // default notion icon and cover images for site-wide consistency (optional)
